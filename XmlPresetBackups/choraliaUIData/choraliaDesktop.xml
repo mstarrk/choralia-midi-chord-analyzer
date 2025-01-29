@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptFloatingTile" id="KeyboardFloatingTile" x="0.0" y="300.0"
+             width="600.0" height="100.0" ContentType="Keyboard" bgColour="4284769380"
+             itemColour="452984831" itemColour2="4294967295" Data="{&#10;  &quot;KeyWidth&quot;: 12,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 36,&#10;  &quot;HiKey&quot;: 127,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: true,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"
+             textColour="0"/>
+  <Component type="ScriptLabel" id="ChordLbl" x="0.0" y="30.0" width="600.0"
+             height="267.0" text="C2" editable="0" fontName="Cascadia Mono"
+             fontStyle="Bold" bgColour="12326422" itemColour2="4227858431"
+             textColour="4289083637" locked="1" fontSize="152.0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox1" x="0.0" y="0.0" width="600.0"
+             height="30.0" max="0" text="Scale"/>
+</ContentProperties>
